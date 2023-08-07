@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "allowJs": false,
+    "alwaysStrict": false,
+    "declaration": true,
+    "outDir": "dist",
+    "downlevelIteration": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react-jsx",
+    "isolatedModules": true,
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "module": "CommonJS",
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "target": "ES5",
+    "strict": true,
+    "noEmitOnError": true,
+    "sourceMap": true
+  }
+}
